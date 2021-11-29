@@ -1,0 +1,15 @@
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\bin\Debug\net6.0\csharp_unit_testing_unix_1.exe
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\bin\Debug\net6.0\csharp_unit_testing_unix_1.deps.json
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\bin\Debug\net6.0\csharp_unit_testing_unix_1.runtimeconfig.json
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\bin\Debug\net6.0\csharp_unit_testing_unix_1.dll
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\bin\Debug\net6.0\ref\csharp_unit_testing_unix_1.dll
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\bin\Debug\net6.0\csharp_unit_testing_unix_1.pdb
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.csproj.AssemblyReference.cache
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.AssemblyInfoInputs.cache
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.AssemblyInfo.cs
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.dll
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\ref\csharp_unit_testing_unix_1.dll
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.pdb
+C:\Users\Universidad\home\programming_csharp_practices\csharp_unit_testing_unix_1\obj\Debug\net6.0\csharp_unit_testing_unix_1.genruntimeconfig.cache
