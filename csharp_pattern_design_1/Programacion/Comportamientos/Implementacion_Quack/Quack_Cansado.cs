@@ -1,4 +1,4 @@
-﻿public class Quack_Cansado : Comportamiento_Quack
+﻿public class Quack_Cansado : IQuack
 {
     public void Quack() 
     {

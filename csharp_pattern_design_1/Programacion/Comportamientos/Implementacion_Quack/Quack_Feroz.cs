@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 
 
-public class Quack_Feroz : Comportamiento_Quack
+public class Quack_Feroz : IQuack
 {
     public void Quack()
     {

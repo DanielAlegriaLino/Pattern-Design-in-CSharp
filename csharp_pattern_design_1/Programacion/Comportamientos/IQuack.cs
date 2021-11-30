@@ -1,4 +1,4 @@
-﻿public interface Comportamiento_Quack
+﻿public interface IQuack
 {
     public void Respirar();
     public void Quack();
