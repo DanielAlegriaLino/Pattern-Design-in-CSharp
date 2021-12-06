@@ -12,7 +12,7 @@ public abstract class ISujeto
 
 public interface IObserver
 {
-	public void Update(string a_last_title, string a_last_url, string a_description, string a_last_image);
+	public void Update(string a_last_title, string a_last_url, string a_last_description, string a_last_image);
 }
 
 public interface IDisplay 
