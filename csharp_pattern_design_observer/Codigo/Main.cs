@@ -3,10 +3,13 @@
 Newsletter youtube = new Newsletter();
 LectorKindle paperwhite_de_pepe = new LectorKindle(youtube, "PaperWhite de Pepe");
 LectorKindle oasis_de_juan = new LectorKindle(youtube, "Oasis de Juan");
+Tablet samsung_de_pedro = new Tablet(youtube, "Samsung A4 de Juancho");
 
 
 youtube.AddObserver(paperwhite_de_pepe);
 youtube.AddObserver(oasis_de_juan);
+youtube.AddObserver(samsung_de_pedro);
+
 
 youtube.RemoveObserver(paperwhite_de_pepe);
 
