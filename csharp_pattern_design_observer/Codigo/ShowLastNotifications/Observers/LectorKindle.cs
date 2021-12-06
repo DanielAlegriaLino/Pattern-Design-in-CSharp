@@ -25,7 +25,7 @@ class LectorKindle : IObserver, IDisplay
 	public void DisplayInfo()
 	{
 		Console.WriteLine($"Hola {name}, se subio un nuevo video");
-		Console.WriteLine($" este se titula: {last_title}, cargando url... {last_url}");
+		Console.WriteLine($" este se titula: {last_title}, puedes ver el video desde tu reproductor multimedia favorito en  {last_url}");
 		Console.WriteLine($"La descripcion del ultimo video es {last_description}");
 	}
 
